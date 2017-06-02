@@ -26,6 +26,14 @@
 
 `pwd`
 
+### copies files or directories. Here, we copy the contents of frida.txt into lincoln.txt.
+
+`cp frida.txt lincoln.txt`
+
+### copies biopic/ray.txt and biopic/notorious.txt to historical/
+
+`cp biopic/ray.txt biopic/notorious.txt historical/`
+
 ### list the files inside the directory
 
 `ls`
