@@ -26,6 +26,10 @@
 
 `pwd`
 
+### which command is used to find the location of a program
+
+`which firefox`
+
 ### copies files or directories. Here, we copy the contents of frida.txt into lincoln.txt.
 
 `cp frida.txt lincoln.txt`
